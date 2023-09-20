@@ -17,7 +17,8 @@
 
 ## Spring File 생성 후 설정 순서
 
-![%EC%8A%A4%ED%94%84%EB%A7%81%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%83%9D%EC%84%B1%ED%9B%84%EC%84%A4%EC%A0%95%EC%88%9C%EC%84%9C](https://github.com/Sunro1994/SpringFramework/assets/132982907/e15dfa5b-4e6e-4aca-b501-92eea5597252)
+![스프링프로젝트생성후설정순서](https://github.com/Sunro1994/SpringFramework/assets/132982907/6872c90d-3e0a-4698-bb39-a44e8839182b)
+
 
 ## MVC Pattern
 
