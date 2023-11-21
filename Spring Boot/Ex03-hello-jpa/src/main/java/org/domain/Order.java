@@ -21,13 +21,21 @@ public class Order {
     @Column(name = "MEMBER_ID")
     private Long memberId;
 
-    @Embedded
+    @ManyToOne
     private Member member;
 
-    private LocalDateTime orderDate; //SpringBoot에서는 네이밍 관례를 변경할 수 있다. orderDate -> ORDER_DATE
 
+    //SpringBoot에서는 네이밍 관례를 변경할 수 있다. orderDate -> ORDER_DATE
+    //사용하고 있는 규칙을 잘 준수해서 이름을 만들도록 한다.
+    //LocalDateTime은 자동으로 맵핑해준다.
+    private LocalDateTime orderDate;
+
+
+    //꼭 STRING을 사용할 것
     @Enumerated(EnumType.STRING)
     private OrderStatus status;
+
+
 
 
 }
