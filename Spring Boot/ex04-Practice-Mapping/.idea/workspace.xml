@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c07f7e09-cbd5-4be6-afe6-e9329dc9a266" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JPAMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/JpaMainOneWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/JpaMainOneWaySolveProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/JpaMainTwoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/JpaMainTwoWaySolveProblem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/MemberForOneWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/MemberForOneWaySolveProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/MemberForTwoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/TeamForOneWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/java/org/example/Domain/TeamForTwoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04-relationship-Mapping/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../실습예제 코드.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/java/org/domain/JPAMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/java/org/domain/JPAMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/java/org/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/java/org/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/java/org/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/java/org/domain/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/java/org/domain/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/java/org/domain/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03-hello-jpa/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YTfn7lxDl62oZ6XyTyfMj0JrZ8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/이선로/Documents/GitHub/SpringFramework/Spring Boot/ex04-Practice-Mapping/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\이선로\Documents\GitHub\SpringFramework\Spring Boot\ex04-Practice-Mapping\src\main\resources" />
+      <recent name="C:\Users\이선로\Documents\GitHub\SpringFramework\Spring Boot\ex04-Practice-Mapping\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c07f7e09-cbd5-4be6-afe6-e9329dc9a266" name="Changes" comment="" />
+      <created>1700554657653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700554657653</updated>
+      <workItem from="1700554658690" duration="2397000" />
+      <workItem from="1700575235898" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
